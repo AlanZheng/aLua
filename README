@@ -1,1 +1,7 @@
-It's the lua 5.2 for android.
+
+This is Lua 5.2, released on 12 Dec 2011.
+
+It's can be used for android NDK.
+
+For installation instructions, license details, and
+further information about Lua, see doc/readme.html.
