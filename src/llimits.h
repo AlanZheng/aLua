@@ -211,7 +211,11 @@ typedef lu_int32 Instruction;
 /* the next trick should work on any machine using IEEE754 with
    a 32-bit integer type */
 
-union luai_Cast { double l_d; LUA_INT32 l_p[2]; };
+union luai_Cast
+{
+    double l_d;
+    LUA_INT32 l_p[2];
+};
 
 #if !defined(LUA_IEEEENDIAN)	/* { */
 #define LUAI_EXTRAIEEE	\
