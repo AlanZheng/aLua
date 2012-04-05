@@ -2,7 +2,7 @@ This is Lua 5.2, released on 12 Dec 2011.
 
 It's can be used for android NDK now.
 
-For compiling static library, please read http://blog.microsuncn.com/?p=3483.
+For how to compiling static library, please read http://blog.microsuncn.com/?p=3483.
 
 For installation instructions, license details, and
 further information about Lua, see doc/readme.html.
